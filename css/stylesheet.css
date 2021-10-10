@@ -1,14 +1,7 @@
-h3{
-    border: coral solid 2px;
-    padding: 30px;
-    background-color: coral;
-    color: antiquewhite;
-}
-h4{ border: solid 2px crimson;
-    margin: 50px;
-    color:coral;
 
-}
-h5{
-    color:chartreuse;
+img{
+    /* float:initial;    */
+    width: 350px;
+    height: 350px;
+    
 }
